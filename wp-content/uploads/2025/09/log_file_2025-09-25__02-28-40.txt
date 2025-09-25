@@ -1,0 +1,49 @@
+
+---Downloaded files---
+The import files for: splashnews were successfully downloaded!
+Initial max execution time = 3600000000
+Files info:
+Site URL = http://localhost/knkabmojokerto_v2
+Data file = C:\laragon\www\knkabmojokerto_v2/wp-content/uploads/2025/09/demo-content-import-file_2025-09-25__02-28-40.xml
+Widget file = C:\laragon\www\knkabmojokerto_v2/wp-content/uploads/2025/09/demo-widgets-import-file_2025-09-25__02-28-40.json
+Customizer file = C:\laragon\www\knkabmojokerto_v2/wp-content/uploads/2025/09/demo-customizer-import-file_2025-09-25__02-28-40.dat
+
+------
+Completed AJAX call number: 1
+
+
+---Importing content---
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Main Sidebar : 
+
+Cari - No Title - Imported
+AFTDN Trending News - No Title - Imported
+AFTDN Social Contacts - No Title - Imported
+Meta - No Title - Imported
+
+Front-page Content Section : 
+
+AFTDN Express Posts List - No Title - Imported
+AFTDN Post Double Columns - No Title - Imported
+AFTDN Posts Slider - No Title - Imported
+AFTDN Post Grid - No Title - Imported
+AFTDN Post List - No Title - Imported
+AFTDN Posts Carousel - No Title - Imported
+AFTDN Post Single Column - No Title - Imported
+
+Front-page Sidebar Section : 
+
+AFTDN Author Info - No Title - Imported
+AFTDN Trending News - No Title - Imported
+AFTDN Social Contacts - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---templatespare/after_import---
+
